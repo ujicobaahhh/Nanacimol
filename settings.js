@@ -11,7 +11,7 @@ const chalk = require('chalk');
 
 global.owner = ['6282221155218'] //['628','628'] 2 owner atau lebih
 global.packname = 'Bot WhatsApp'
-global.author = 'Nanabod'
+global.author = 'Nanabot'
 global.botname = 'Nana Bot'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
@@ -73,6 +73,13 @@ global.APIKeys = {
 
 global.badWords = ['tolol','goblok','asu','pantek','kampret','ngentot','jancok','kontol','memek','lonte']
 global.chatLength = 1000
+global.kick = true
+global.antibadword = true
+global.antilink = true
+global.autokick = true
+global.welcome = true
+global.gcrevoke = false //biarin aja
+
 
 //~~~~~~~~~~~~~~~< PROCESS >~~~~~~~~~~~~~~~\\
 
